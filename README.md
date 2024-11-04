@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+### Name : K MADHAVA REDDY
+### Register no : 212223240064
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
